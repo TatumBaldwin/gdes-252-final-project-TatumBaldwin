@@ -455,6 +455,36 @@
             transform: scale(0.9);
         }
 
+        /* javascript darkmode classes */
+
+        .dark-mode-background {
+            background-color: #1c395c;
+        }
+
+        .dark-mode-container {
+            border: #333333 solid 7px;
+        }
+
+        .dark-mode-footer {
+
+        }
+
+        .dark-mode-button {
+
+        }
+
+        .dark-mode-nav-menu {
+
+        }
+
+        .dark-mode-text {
+
+        }
+
+        .dark-mode-headers {
+
+        }
+
 
 
         /* WINDOW SIZE 1000 OR MORE */
